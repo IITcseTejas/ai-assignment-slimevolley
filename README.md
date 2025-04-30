@@ -1,5 +1,7 @@
 # AI Assignment 3 – Game Playing using Minimax and Alpha-Beta Pruning
 
+Tejas Meshram cs24m108
+Ajitesh Gowlikar cs24m118
 🎓 **IIT Tirupati | M.Tech CSE**  
 📅 **Spring 2025**  
  
